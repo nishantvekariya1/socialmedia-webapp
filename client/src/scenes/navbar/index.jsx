@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          SocialPulse
+          OnlineFriend
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
